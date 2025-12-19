@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "スパークル",
   "base_artist": "RADWIMPS",
-  "createdAt": "2025-12-05T16:19:08.550542Z",
+  "createdAt": "2025-12-19T16:19:35.740851Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -111,10 +111,18 @@
     {
       "id": "lrclib_14",
       "source": "lrclib",
+      "title": "スパークル (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_スパークル_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
       "title": "スパークル(movie ver.)",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/14_スパークル(movie_ver.)_RADWIMPS.lrc"
+      "path": "select/15_スパークル(movie_ver.)_RADWIMPS.lrc"
     },
     {
       "id": "petitlyrics_1",
