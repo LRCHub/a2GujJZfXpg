@@ -1,4 +1,4 @@
-# RADWIMPS – スパークル (movie ver.)
+# RADWIMPS – スパークル
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
